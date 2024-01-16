@@ -1,0 +1,7 @@
+organization=peter-org
+projectKey=peter-org_vulnerablenode
+serverUrl=https://phsc.eu.ngrok.io
+serverVersion=8.0-SNAPSHOT
+dashboardUrl=https://phsc.eu.ngrok.io/dashboard?id=peter-org_vulnerablenode
+ceTaskId=AYvdSr4joNyU_udzMW3b
+ceTaskUrl=https://phsc.eu.ngrok.io/api/ce/task?id=AYvdSr4joNyU_udzMW3b
